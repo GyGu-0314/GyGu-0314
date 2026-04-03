@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Gaoyuan Gu
 
-<!--
-**GyGu-0314/GyGu-0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about  machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎭 [Deepfake Detection with Bayesian Uncertainty](https://github.com/khalil-he/Deepfake-Bayesian-Detection)
+Deepfake detection powered by Bayesian Machine Learning. Unlike traditional classifiers that output binary decisions, this system provides **calibrated uncertainty estimates** for every prediction.
+- **Tech:** PyTorch, Variational Inference, MC Dropout, Streamlit
+- **Key Features:** 
+  - Bayesian Neural Networks (VI & MC Dropout)
+  - Uncertainty Quantification
+  - Interactive web demo
+
+---
+
+*Last updated: April 3, 2026*
