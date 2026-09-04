@@ -4,9 +4,12 @@ I'm passionate about  machine learning.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+### [TBA](https://github.com/khalil-he/Deepfake-Bayesian-Detection)
+TBA
 
-### 🎭 [Deepfake Detection with Bayesian Uncertainty](https://github.com/khalil-he/Deepfake-Bayesian-Detection)
+
+### [Deepfake Detection with Bayesian Uncertainty](https://github.com/khalil-he/Deepfake-Bayesian-Detection)
 Deepfake detection powered by Bayesian Machine Learning. Unlike traditional classifiers that output binary decisions, this system provides **calibrated uncertainty estimates** for every prediction.
 - **Tech:** PyTorch, Variational Inference, MC Dropout, Streamlit
 - **Key Features:** 
