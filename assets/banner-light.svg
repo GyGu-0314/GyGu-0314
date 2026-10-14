@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="Gaoyuan Gu — ccds terminal banner">
+<style>
+.l{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px;fill:#1f2328;opacity:0;animation:in .4s ease forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="858" height="298" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M1 11a10 10 0 0 1 10-10h838a10 10 0 0 1 10 10v25H1z" fill="#f6f8fa"/>
+<line x1="1" y1="36" x2="859" y2="36" stroke="#d0d7de"/>
+<circle cx="22" cy="18.5" r="6" fill="#ff5f57"/><circle cx="42" cy="18.5" r="6" fill="#febc2e"/><circle cx="62" cy="18.5" r="6" fill="#28c840"/>
+<text x="430" y="23" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#656d76">🍪 cookiecutter-data-science — ~/gaoyuan-gu</text>
+<text class="l" style="animation-delay:0.25s" x="28" y="78"><tspan fill="#1a7f37">$</tspan> ccds</text>
+<text class="l" style="animation-delay:0.60s" x="28" y="104"><tspan fill="#656d76">project_name</tspan> (project_name): <tspan fill="#0969da">gaoyuan-gu</tspan></text>
+<text class="l" style="animation-delay:0.95s" x="28" y="130"><tspan fill="#656d76">degree</tspan>: <tspan fill="#1f2328">MS Applied Data Science @ UChicago · GPA 4.00</tspan></text>
+<text class="l" style="animation-delay:1.30s" x="28" y="156"><tspan fill="#656d76">background</tspan>: <tspan fill="#1f2328">BS Business &amp; Finance, Minor Math @ NYU Shanghai</tspan></text>
+<text class="l" style="animation-delay:1.65s" x="28" y="182"><tspan fill="#656d76">focus</tspan>: <tspan fill="#9a6700">[big-data ETL] [computer vision] [bayesian ML] [quant finance]</tspan></text>
+<text class="l" style="animation-delay:2.00s" x="28" y="208"><tspan fill="#656d76">location</tspan>: <tspan fill="#1f2328">Chicago, IL · open to relocation</tspan></text>
+<text class="l" style="animation-delay:2.35s" x="28" y="234"><tspan fill="#656d76">available</tspan>: <tspan fill="#cf222e">January 2027</tspan></text>
+<text class="l" style="animation-delay:2.70s" x="28" y="260"><tspan fill="#1a7f37">✔ Project created.</tspan> <tspan fill="#656d76">Scroll down to explore the tree ↓</tspan></text>
+<rect class="cur" x="28" y="272" width="9" height="17" fill="#0969da"/>
+</svg>
