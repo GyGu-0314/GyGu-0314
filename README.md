@@ -142,16 +142,16 @@ in-progress = ["airflow", "kafka", "spark-ml", "langchain", "rag", "vector-dbs",
 
 I'm working with Argonne research scientists on an **edge-computing vision system that detects bird collisions at utility-scale solar facilities**. I scoped the analytic framework, data requirements and evaluation criteria. Now I'm working on accuracy and cutting false alarms by separating true collisions from non-collision triggers.
 
-### 🎭 [Bayesian Deepfake Detection & Uncertainty Quantification](https://github.com/khalil-he/Deepfake-Bayesian-Detection)
-`pytorch` `variational-inference` `mc-dropout` `streamlit` · *UChicago, 4-person team · Jan – Mar 2026*
+### 🎭 [Bayesian Deepfake Detection & Uncertainty Quantification](https://github.com/GyGu-0314/deepfake-bayesian-detection)
+`pytorch` `variational-inference` `mc-dropout` `streamlit` · *UChicago, 4-person team · Jan – Mar 2026* · [📁 code](https://github.com/GyGu-0314/deepfake-bayesian-detection) · <sub>team repo: [khalil-he/Deepfake-Bayesian-Detection](https://github.com/khalil-he/Deepfake-Bayesian-Detection)</sub>
 
 Most deepfake detectors only output a yes/no answer. This one also reports **how confident it is** in each prediction.
 - Curated **DeepfakeEval2024** (1,952 images, stratified 932 / 234 / 786) and extracted 2,048-d frozen **Xception** features.
 - Built the **variational-inference (Bayes-by-Backprop)** head, tuning 12 KL-weight / prior configurations.
 - **Test AUC 0.736**, a **2.4× wider uncertainty gap** than MC Dropout, and **+3.2 pp accuracy** after rejecting the 20% most uncertain predictions.
 
-### 🎥 EgoRecall: Visual Memory Retrieval on Ego4D
-`clip` `blip-itm` `faiss` `gcs` · *UChicago, 4-person team · Mar – Jun 2026*
+### 🎥 [EgoRecall: Visual Memory Retrieval on Ego4D](https://github.com/GyGu-0314/ego-recall)
+`clip` `blip-itm` `faiss` `gcs` · *UChicago, 4-person team · Mar – Jun 2026* · [📁 code](https://github.com/GyGu-0314/ego-recall) · <sub>team repo: [khadijahslawal/ego-recall](https://github.com/khadijahslawal/ego-recall)</sub>
 
 - Built the data pipeline for **1,743 Ego4D videos (667 GB)**. A hybrid cluster-seek method cut frame extraction from **205 s to about 3 s per video**, and tar-bundling 246K frames cut slow small-file GCS transfers from **2+ hours to minutes**.
 - Built **CLIP / BLIP-ITM embedding retrieval with FAISS**. Candidate-window search plus temporal smoothing raised strict Top-100 accuracy to **27.9%** (CLIP baseline 25.0%), against a coverage ceiling of about 67%.
