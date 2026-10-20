@@ -11,7 +11,7 @@ gaoyuan-gu
 ├── projects
 │   ├── <a href="https://github.com/GyGu-0314/Deepfake-Bayesian-Detection">deepfake-bayesian-detection</a>  deepfake detector that knows when it's unsure, AUC 0.736
 │   ├── <a href="https://github.com/GyGu-0314/ego-recall">ego-recall</a>                   text search over 667 GB of first-person video, CLIP + FAISS
-│   ├── amazon-reviews               PySpark ETL over 64.7M reviews, plus a look at fake reviews
+│   ├── <a href="https://github.com/GyGu-0314/test">amazon-reviews</a>               PySpark ETL over 64.7M reviews, plus a look at fake reviews
 │   └── resnet-vs-mobilenet          99.6% vs 94.0% accuracy at 2.91 vs 0.72 ms per image
 └── internships
     ├── astrazeneca                  incentive payouts for 2,000+ reps, disputes 2 weeks → 3 days
