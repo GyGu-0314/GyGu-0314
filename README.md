@@ -13,9 +13,7 @@ gaoyuan-gu
 │   ├── <a href="https://github.com/GyGu-0314/ego-recall">ego-recall</a>                   text search over 667 GB of first-person video, CLIP + FAISS
 │   ├── amazon-reviews               PySpark ETL over 64.7M reviews, plus a look at fake reviews
 │   └── resnet-vs-mobilenet          99.6% vs 94.0% accuracy at 2.91 vs 0.72 ms per image
-├── research
-│   └── sse50-options-thesis         when and why China's SSE 50 ETF options were mispriced
-└── work
+└── internships
     ├── astrazeneca                  incentive payouts for 2,000+ reps, disputes 2 weeks → 3 days
     └── csc-financial                cash-flow models for 5 public REITs
 </pre>
